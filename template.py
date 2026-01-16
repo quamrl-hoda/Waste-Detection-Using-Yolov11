@@ -34,7 +34,10 @@ list_of_files = [
   "research/trials.ipynb",
   "Dockerfile",
   "app.py",
-   "main.py"
+  "main.py",
+  "dvc.yaml",
+  ".dvcignore"
+   
 ]
 
 for filepath in list_of_files:
