@@ -23,10 +23,10 @@ list_of_files = [
   f"src/{project_name}/entity/config_entity.py",
   f"src/{project_name}/pipeline/__init__.py",
   f"src/{project_name}/pipeline/training_pipeline.py",
-  f"src/{project_name}/logger/__init__.py",
-  f"src/{project_name}/logger/logger.py",
+  f"src/{project_name}/logger.py",
   f"src/{project_name}/exception/__init__.py",
   f"src/{project_name}/exception/custom_exception.py",
+
   "config/config.yaml",
   "params.yaml",
   "requirements.txt",

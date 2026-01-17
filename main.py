@@ -1,3 +1,3 @@
-from src.wasteDetection.logger import logging
+from src.wasteDetection.logger import logger
 
-logging.info("This is a log message from main.py")
+logger.info("This is a log message from main.py")

@@ -18,4 +18,4 @@ logging.basicConfig(
   ]
 )
 
-logging = logging.getLogger("wasteDetectionLogger")  
+logger = logging.getLogger("wasteDetectionLogger")  
